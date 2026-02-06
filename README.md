@@ -37,6 +37,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candragnawn&show_icons=true&theme=tokyonight" alt="Candra's Stats" height="150" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=candragnawn&show_icons=true&theme=tokyonight" alt="Candra's Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=candragnawn&theme=tokyonight" alt="Streak Stats" height="150" />
 </p>
