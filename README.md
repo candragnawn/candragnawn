@@ -19,9 +19,7 @@
 
 ###  Quick Stats & Focus
  **Current Project:** Working on [Sentiment Apps with DistilBERT](https://github.com/candragnawn/Sentiment-Apps)
- **Learning Path:** Advanced NLP with Hugging Face, Fullstack AI Integration, and Web Vulnerability Analysis.
- **Collaboration:** Open for [Phisfence Project](https://github.com/DivandraKusuma/JMK58)
- **Goal:** Bridging the gap between predictive modeling and secure software development.
+ 
 
 ---
 
