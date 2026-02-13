@@ -5,8 +5,8 @@
 
 <p align="center">
   <strong>Student at Udayana University</strong> 🎓<br>
-  Exploring the intersection of <strong>Artificial Intelligence</strong> and <strong>Cyber Security</strong>. 
-  I build AI-powered apps and hunt for bugs to ensure robust systems.
+  Exploring <strong>ML and AI </strong> and <strong>learning Cyber Securit</strong>. 
+  I build AI-powered apps
 </p>
 
 <p align="center">
