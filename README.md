@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Student at Udayana University</strong> 🎓<br>
-  Exploring <strong>ML and AI </strong> and <strong>learning Cyber Securit</strong>. 
+  Exploring <strong>ML and AI </strong> also <strong>learning Cyber Securit</strong>. 
   I build AI-powered apps
 </p>
 
