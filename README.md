@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Candra Gunawan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+and+Security+Enthusiast;Data+Science+Competitor;Fullstack+AI+Developer;Bug+Bounty+Hunter" alt="Typing SVG" />
-</p>
-
 
 <p align="center">
   <a href="https://linkedin.com/in/i-kadek-candra-gunawan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
