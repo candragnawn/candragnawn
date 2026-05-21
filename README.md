@@ -27,6 +27,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=candragnawn&show_icons=true&theme=tokyonight" alt="Candra's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=candragnawn&theme=tokyonight" alt="Streak Stats" height="150" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=candragnawn&show_icons=true&theme=tokyonight&cache_bust=1" alt="Candra's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=candragnawn&theme=tokyonight&count_private=true&cache_bust=1" alt="Streak Stats" height="150" />
 </p>
