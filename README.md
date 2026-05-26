@@ -10,7 +10,7 @@
 ---
 
 ###  Quick Stats & Focus
- **Current Project:** Working on [Sentiment Apps with DistilBERT](https://github.com/candragnawn/Sentiment-Apps)
+ **Current Project:** Working on [Sentiment Apps with DistilBERT](https://github.com/candragnawn/Sistem-Lab-Budaya-Digital)
  
 
 ---
